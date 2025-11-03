@@ -4,6 +4,6 @@ Made this for practice.
 
 ## Notes
 - Feel free to clone.
-- Please use your own API key from (timezonedb)[https://timezonedb.com/api].
+- Please use your own API key from [timezonedb](https://timezonedb.com/api).
 
 ciao ciao
