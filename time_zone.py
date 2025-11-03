@@ -26,6 +26,7 @@ class MainWindow(QMainWindow):
             font-size: 50px;
             color: hsl(49, 98%, 49%);
             font-weight: bold;
+            padding: 20px
             """)
         # fonts
         font_id = QFontDatabase.addApplicationFont("Good Times Rg.otf")
