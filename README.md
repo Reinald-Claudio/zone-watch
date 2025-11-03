@@ -6,4 +6,6 @@ Made this for practice.
 - Feel free to clone.
 - Please use your own API key from [timezonedb](https://timezonedb.com/api).
 
+!(time)[https://github.com/Reinald-Claudio/zone-watch/blob/main/time_zone_snap.png?raw=true]
+
 ciao ciao
